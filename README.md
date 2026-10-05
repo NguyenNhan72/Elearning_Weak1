@@ -32,5 +32,6 @@
 ---
 
 ##  5. Hình ảnh đầu ra (Output Preview)
-<img width="371" height="727" alt="image" src="https://github.com/user-attachments/assets/e3597ce2-769c-400e-bdab-a678cb70aa36" />
+<img width="360" height="767" alt="image" src="https://github.com/user-attachments/assets/434e8f12-4edb-4347-bc4f-555d8e3272f4" />
+
 
